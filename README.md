@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.fractz.com/asset/logo.png">
+  <img src="https://www.fractz.com/asset/logo.png" style="width: 120px; height: auto;">
   <h1>FRACTZ Voice Agent - Demo</h1>
 </div>
 
