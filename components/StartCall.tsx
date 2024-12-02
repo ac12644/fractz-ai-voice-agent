@@ -30,9 +30,9 @@ export default function StartCall() {
             exit={{ opacity: 0, y: -10 }}
           >
             <p className="text-lg font-medium">
-              This onscreen visual demo is currently limited to basic functions
-              but is typically integrated with phone systems and tailored to
-              meet company-specific needs.
+              Discover how FRACTZ services can transform your business. For
+              example:{" "}
+              <em>"Hi, I'm looking for an automation solution for my CRM"</em>
             </p>
           </motion.div>
 
