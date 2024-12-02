@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://storage.googleapis.com/hume-public-logos/hume/hume-banner.png">
+  <img src="https://www.fractz.com/asset/logo.png">
   <h1>FRACTZ Voice Agent - Demo</h1>
 </div>
 
